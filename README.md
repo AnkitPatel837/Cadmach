@@ -1,2 +1,2 @@
-# Cadmach
-C300
+# Cadmach/CPD Series
+CPDV, CPD IV, CTX Series
